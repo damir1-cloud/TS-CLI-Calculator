@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 // CLI data input and storage
 console.log("Welcome to the Command line calculator made in Typescript");
